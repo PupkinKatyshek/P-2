@@ -1,1 +1,1 @@
-https://pupkinkatyshek.github.io/first-project-for-kata/
+https://pupkinkatyshek.github.io/P-2/
